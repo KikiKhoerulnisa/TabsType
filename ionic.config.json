@@ -1,0 +1,7 @@
+{
+  "name": "TabsType",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
